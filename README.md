@@ -3,7 +3,13 @@
 
 * [1. Main Function](#1-main-function)
     * [1.1 Proton Initialize](#11-proton_initialize)
-    * [1.2 Proton Initialize](#11-proton_initialize)
+    * [1.2 Create Sale](#12-create_sale)
+    * [1.3 Register](#13-register)
+    * [1.4 Add Whitelist](#14-add_whitelist)
+    * [1.5 Contribute](#15-contribute)
+    * [1.6 End Sale](#16-end_sale)
+    * [1.7 Claim](#17-claim)
+
 
 ## Main Function
 ### `proton_initialize`
